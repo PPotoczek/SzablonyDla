@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SzablonyDlaRownan.dir/main.cpp.o CMakeFiles/SzablonyDlaRownan.dir/Wektor.cpp.o CMakeFiles/SzablonyDlaRownan.dir/LZespolona.cpp.o  -o SzablonyDlaRownan 

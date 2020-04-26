@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.cpp
+iostream
+-
+math.h
+-
+LZespolona.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Rozmiar.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.cpp
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+iostream
+-
+math.h
+-
+LZespolona.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+Rozmiar.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Rozmiar.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/main.cpp
+iostream
+-
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+LZespolona.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+
