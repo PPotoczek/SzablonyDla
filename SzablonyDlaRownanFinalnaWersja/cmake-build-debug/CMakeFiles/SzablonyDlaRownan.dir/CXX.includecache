@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Macierz.cpp
+Macierz.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Macierz.hh
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Macierz.hh
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+iostream
+-
+math.h
+-
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/UkladRownanLiniowych.cpp
+UkladRownanLiniowych.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/UkladRownanLiniowych.hh
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/UkladRownanLiniowych.hh
+iostream
+-
+Macierz.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Macierz.hh
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.cpp
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+iostream
+-
+math.h
+-
+LZespolona.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/LZespolona.hh
+iomanip
+-
+
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/main.cpp
+iostream
+-
+UkladRownanLiniowych.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/UkladRownanLiniowych.hh
+Wektor.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Wektor.hh
+Macierz.hh
+/home/riveri/Pulpit/SzablonyDlaRownan zadanie/Macierz.hh
+
